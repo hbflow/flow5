@@ -7,5 +7,5 @@
 
 • Bug Fixes, Design Changes & More
 
-# Html render link for low end devices
+# Html render link for lower end devices
 https://hbflow.github.io/flow5html
